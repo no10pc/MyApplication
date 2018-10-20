@@ -11,7 +11,7 @@ import android.view.MenuItem;
 
 /*
 * im add smalple for change
-*
+* ready
 * */
 
 public class MainActivity extends AppCompatActivity {
